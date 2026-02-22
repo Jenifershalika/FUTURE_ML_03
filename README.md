@@ -1,6 +1,6 @@
 # FUTURE_ML_03
 
-Resume Screening System using NLP
+## Resume Screening System using NLP
 🚀 Project Overview
 
 This project is an AI-powered Resume Screening System that automatically analyzes and ranks resumes based on a given job description. It uses Natural Language Processing (NLP) techniques like TF-IDF and Cosine Similarity to identify the best candidates.
